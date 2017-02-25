@@ -1,5 +1,5 @@
-import scrapy
 import json
+import scrapy
 import urllib
 
 class doubanSpider(scrapy.Spider):
