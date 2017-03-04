@@ -1,0 +1,9 @@
+Cache-Control: max-age=1800
+Date: Sat, 04 Mar 2017 14:14:00 GMT
+X-Via: 1.1 dxun38:4 (Cdn Cache Server V2.0), 1.1 yuwang216:5 (Cdn Cache Server V2.0), 1.1 yw137:5 (Cdn Cache Server V2.0)
+Expires: Sat, 04 Mar 2017 14:43:46 GMT
+Content-Type: text/html
+Server: nginx/1.2.7
+Etag: 1488636797|
+Content-Encoding: gzip
+X-Powered-By: PHP/5.2.17
